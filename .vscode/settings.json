@@ -1,0 +1,15 @@
+{
+    "python.pythonPath": "C:\\Users\\xeexe\\Anaconda3\\envs\\section2\\python.exe",
+    "python.unitTest.unittestArgs": [
+        "-v",
+        "-s",
+        ".",
+        "-p",
+        "test*.py"
+    ],
+    "python.unitTest.pyTestEnabled": false,
+    "python.unitTest.nosetestsEnabled": false,
+    "python.unitTest.unittestEnabled": true,
+    "python.formatting.provider": "yapf",
+    "python.linting.pylintEnabled": true
+}
